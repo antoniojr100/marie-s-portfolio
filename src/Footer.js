@@ -4,7 +4,7 @@ function Footer(){
     return(
         <footer>
             <div className="wrapper">
-            <p>Made by <a id="footer-name" href="https://antonioarredondo.netlify.app/" target="_blank">Antonio Arredondo</a></p>
+            <p>Made by <a id="footer-name" href="https://antonioarredondo.netlify.app/" target="_blank" rel="noreferrer">Antonio Arredondo</a></p>
             </div>
         </footer>
     )
