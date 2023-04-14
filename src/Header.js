@@ -12,13 +12,17 @@ function Header(){
                             <a class="nav-item" href="#about">About Me</a>
                         </li>
                         <li>
-                            <a class="nav-item" href="art">My Art</a>
+                            <a class="nav-item" href="#art">My Art</a>
                         </li>
                         <li>
                             <a class="nav-item" href="#contact">Contact Me</a>
                         </li>
                         <li>
-                            <a class="nav-item" href="#contact">My Links</a>
+                            <a class="nav-item" 
+                                href="https://linktr.ee/Honeyyslut" 
+                                rel="noreferrer"
+                                target="_blank"
+                                >My Links</a>
                         </li>
                     </ul>
                 </nav>
