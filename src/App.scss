@@ -46,14 +46,18 @@ $sub-header: #f5b872;
 }
 
 #main-header{
-    font-size: 6rem;
+    font-size: 8rem;
     margin: 0 auto;
     margin-bottom: 100px;
 }
 
 .sub-header{
-    font-size: 3rem;
+    font-size: 5rem;
     color: $sub-header;
+}
+
+.music-title{
+    font-size: 2.5rem;
 }
 
 .nav-item{
@@ -62,6 +66,10 @@ $sub-header: #f5b872;
 
 .body-text{
     font-size: 1.5rem;
+}
+
+.icon-title{
+    font-weight: 400;
 }
 
 .icon{
@@ -138,9 +146,6 @@ header{
         flex-direction: row;
         justify-content: space-evenly;
         align-items: center;
-        h3{
-            font-weight: 700;
-        }
     }
 }
 
