@@ -8,15 +8,15 @@ function Header(){
 
                 <nav id="nav-bar">
                     <ul>
-                        <li>
+                        {/* <li>
                             <a class="nav-item" href="#about">About Me</a>
-                        </li>
+                        </li> */}
                         <li>
                             <a class="nav-item" href="#art">My Art</a>
                         </li>
-                        <li>
+                        {/* <li>
                             <a class="nav-item" href="#contact">Contact Me</a>
-                        </li>
+                        </li> */}
                         <li>
                             <a class="nav-item" 
                                 href="https://linktr.ee/Honeyyslut" 
